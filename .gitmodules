@@ -1,3 +1,27 @@
 [submodule "DocumentClassifier"]
 	path = DocumentClassifier
 	url = https://github.com/toddkramer/DocumentClassifier
+[submodule "MobileNet"]
+	path = MobileNet
+	url = https://github.com/hollance/MobileNet-CoreML
+[submodule "GoogLeNetPlaces"]
+	path = GoogLeNetPlaces
+	url = https://github.com/chenyi1989/CoreMLDemo
+[submodule "Inceptionv3"]
+	path = Inceptionv3
+	url = https://github.com/yulingtianxia/Core-ML-Sample/
+[submodule "Resnet50"]
+	path = Resnet50
+	url = https://github.com/atomic14/VisionCoreMLSample
+[submodule "VGG16"]
+	path = VGG16
+	url = https://github.com/alaphao/CoreMLExample
+[submodule "CarRecognition"]
+	path = CarRecognition
+	url = https://github.com/likedan/Core-ML-Car-Recognition
+[submodule "TinyYOLO"]
+	path = TinyYOLO
+	url = https://github.com/hollance/YOLO-CoreML-MPSNNGraph
+[submodule "AgeNet"]
+	path = AgeNet
+	url = https://github.com/cocoa-ai/FacesVisionDemo
