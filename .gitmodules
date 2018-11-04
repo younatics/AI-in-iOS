@@ -1,0 +1,3 @@
+[submodule "DocumentClassifier"]
+	path = DocumentClassifier
+	url = https://github.com/toddkramer/DocumentClassifier
